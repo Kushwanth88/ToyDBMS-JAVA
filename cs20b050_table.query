@@ -1,0 +1,13 @@
+create table cs20b050_table1 3
+int i1
+string s1
+date d1
+insert into cs20b050_table1 (5,"Hi","5-6-2022")
+create table cs20b050_table2 6
+int i21
+int i22
+string s21
+string s22
+date d21
+date d22
+insert into cs20b050_table1 (5,6,"Hi","Bye","5-6-2022","5-6-2022")
